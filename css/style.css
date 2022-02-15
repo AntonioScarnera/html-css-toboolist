@@ -1,0 +1,175 @@
+/* 
+icone ovali
+green
+red
+circle
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(231, 231, 231);
+}
+
+/* tool */
+
+.sfondo-blu{
+    background-color: #47ADF1;
+}
+
+
+.sfondo-viola{
+    background-color: purple;
+}
+
+.sfondo-verde{
+    background-color: rgb(55, 153, 96);
+}
+
+.sfondo-arancione{
+    background-color: orange;
+}
+
+.sfondo-rosa{
+    background-color: palevioletred;
+}
+
+.sfondo-lime{
+    background-color: greenyellow;
+}
+
+.circle-green {
+    width: 100px;
+    height: 100px;
+    padding: 3px;
+    border: 1px solid green;
+    border-radius: 50%;
+    color:green;
+  }
+  .circle-red {
+    width: 100px;
+    height: 100px;
+    padding: 3px;
+    border: 1px solid red;
+    border-radius: 50%;
+    color:red;
+  }
+
+
+
+
+.top-container{
+    width: 1376px;
+    height: 84px;
+    margin: 80px 290px 0px 295px;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px 83px;
+}
+
+.container{
+    width: 1376px;
+    height: 750px;
+    margin: 3px 290px 0px 295px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+
+
+
+.white{
+    background: rgb(255, 255, 255);
+}
+
+.format-text{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+
+
+.ovali{
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 25%;
+    font-weight: bold;
+    color: white;
+    font-family: Arial;
+}
+
+
+header{
+    height: 110px;
+    background-color: #fff;
+}
+
+header ul li, img{
+    display: inline-block;
+    width: 100px;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Arial;
+}
+h3{
+    display: inline-block;
+    padding: 5px;
+    font-size: 18px;
+    font-family: Arial;
+    color: rgb(77, 77, 77);
+}
+.button-1{
+    width: 120px;
+    height: 45px;
+    border: 0;
+    padding: 10px 0;
+    border-radius: 10%;
+    margin: 3px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.button-2{
+    border:1px solid rgba(128, 128, 128,0.7);
+    width: 145px;
+    height: 45px;
+    padding: 10px 0;
+    border-radius: 10%;
+    margin: 3px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color:rgba(128, 128, 128,0.7);
+}
+
+ul li{
+    list-style-type: none;
+
+}
+.ul-format{
+    padding: 55px 85px;
+}
+li{
+    padding: 10px;
+}
+
+.subtitles{
+    font-size: 40px;
+    font-weight: bold;
+    color: gray;
+
+}
+.symbol{
+    width: 100px;
+    height: 25px;
+    color: grey;
+
+}
